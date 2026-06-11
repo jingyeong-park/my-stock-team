@@ -1,0 +1,19 @@
+{
+  "name": "my-stock-team-marketplace",
+  "owner": {
+    "name": "Stock Team"
+  },
+  "metadata": {
+    "description": "한국 주식 협업 리서치 플러그인 카탈로그",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "my-stock-team",
+      "source": "./",
+      "description": "5종 애널리스트 서브에이전트 + 리포트(PPTX/PDF) 스킬 + /stock-research 오케스트레이션 커맨드.",
+      "version": "1.0.0",
+      "keywords": ["stock", "equity-research", "korea", "report"]
+    }
+  ]
+}

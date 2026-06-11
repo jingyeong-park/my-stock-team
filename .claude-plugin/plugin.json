@@ -1,0 +1,10 @@
+{
+  "name": "my-stock-team",
+  "version": "1.0.0",
+  "description": "한국 주식 협업 리서치 팀. 5종 애널리스트 서브에이전트(펀더멘털·기술·뉴스/심리·리스크·검증)와 리서치 문서를 디자인된 PPTX/PDF 리포트로 내보내는 report-pptx 스킬, 그리고 전체 파이프라인을 한 번에 실행하는 /stock-research 커맨드를 제공합니다.",
+  "author": {
+    "name": "Stock Team"
+  },
+  "keywords": ["stock", "equity-research", "korea", "dart", "report", "pptx", "pdf"],
+  "license": "MIT"
+}

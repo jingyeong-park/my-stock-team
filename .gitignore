@@ -1,0 +1,18 @@
+# 비밀값 — 절대 커밋 금지
+.env
+.env.*
+*.key
+*.pem
+secrets*.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 에이전트 런타임 메모리 (프로젝트별 상태)
+.claude/agent-memory/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
